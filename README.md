@@ -3,8 +3,6 @@ Collapsing Layout
 
 Técnicas de rolagem sobre como o conteúdo se desloca em relação à barra do aplicativo.
 
-***Esse projeto faz parte do Curso Completo de Android Material Design ([https://www.udemy.com/curso-android-material-design/](https://www.udemy.com/curso-android-material-design/?couponCode=ANDROIDPRO))***
-
 
 Pré-requisitos
 --------------
